@@ -1,8 +1,6 @@
 #!/usr/bin/env python
-# from collections import Counter
 from itertools import tee
 from pathlib import Path
-# from typing import Iterator
 
 
 def part_one(path: Path) -> None:
